@@ -1,1 +1,1 @@
-# Atharvo_ML_Internship_generatinghandwritingdigitimages
+# Atharvo_ML_Internship
